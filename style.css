@@ -1,5 +1,117 @@
-#display {
- font-size: 3remx;
- color: pink;
+
+
+
+a {
+    font-size: small;
+    text-decoration: none !important;
+    font-weight: 400;
+}
+
+h5 {
+    font-size: x-small;
+    color: #0d6efd;
+    font-weight: 300;
+}
+
+.container-fluid.my-5 {
+    background-color: rgb(78, 78, 86);
+    width: 680px;
+    border-radius: 9px;
+    border: 15px solid rgb(66, 66, 74);
 
 }
+
+#display {
+    background-color: rgb(31, 31, 38) !important;
+}
+
+#secondaryDisplay {
+    background-color:rgb(31, 31, 38) !important;  
+    font-size: xxx-large;
+    color:  #0745a1 !important;
+    border-radius: 8px;
+    border: 10px solid #4e619cb5;
+   
+    
+}
+
+h5#v12\ title {
+    font-size: x-small;
+    font-weight: 400;
+}
+
+
+h4 {
+    font-family: system-ui;
+    color: gray;
+    padding-left: 330px !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+}
+
+
+div#display {
+    font-size: xxx-large;
+    color:  hsl(216, 93%, 55%) !important;
+    font-family: system-ui;
+    border-radius: 8px;
+    border: 10px solid #4e619cb5;
+}
+
+button{
+    height: 100px !important;
+    width: 80px;   
+    background-color: rgb(63, 63, 70) !important;
+    
+}
+
+
+.float-right {
+    margin-top: -45px;
+    margin-left: 10px;
+}
+
+button#equals {
+    border-color: #ffc107;
+}
+
+
+button#one {
+    margin-bottom: 4px;
+}
+
+button#two {
+    margin-bottom: 4px;
+}
+
+button#three {
+    margin-bottom: 4px;
+}
+
+button#four {
+    margin-bottom: 4px;
+}
+
+button#five {
+    margin-bottom: 4px;
+}
+
+button#six {
+    margin-bottom: 4px;
+}
+
+.row.text-center.pt-3 {
+    margin-left: 1px;
+}
+
+
+
+
+button#negative-value {
+    margin-right: 10px;
+}
+
+button#clear {
+    color: #fff;
+}
+
